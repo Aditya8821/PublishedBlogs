@@ -1,12 +1,27 @@
-# Writing Portfolio — Aditya Trivedi
+# Aditya Trivedi - Technical Writing Portfolio
 
-The articles below are published under my name.
+I am a Generative AI engineer with 3+ years of experience and a technical writer who turns complex engineering concepts into clear, practical content. Drawing on hands-on experience building production-grade AI systems, I can create technically accurate tutorials, implementation guides, product comparisons, and in-depth explainers for both developer and business audiences.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/aditya-trivedi-032090164/).
+**Core writing domains:** Generative AI · Agentic AI · RAG · Multi-agent systems · Prompt engineering · Machine learning · APIs · Cloud computing · Python · Data structures and algorithms
+
+## AI and Generative AI Expertise
+
+I can write authoritative, implementation-focused content across:
+
+- **LLMs and Generative AI:** Gemini, GPT, prompt engineering, function calling, structured outputs, and LLM evaluation
+- **Agentic systems:** AI agents, multi-agent architectures, tool use, conversation state, and Model Context Protocol (MCP)
+- **RAG and document intelligence:** LangChain, embeddings, semantic search, ChromaDB, FAISS, source attribution, and retrieval optimization
+- **Machine learning and NLP:** TensorFlow, Keras, LSTM models, spaCy, named entity recognition, scikit-learn, and data preprocessing
+- **Multimodal AI:** Text, image, diagram, and infographic generation workflows
+- **AI infrastructure:** Vertex AI, AWS Lambda, S3, scalable data pipelines, REST APIs, and production AI automation
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/aditya-trivedi-032090164/)
 
 ---
 
-## CraftMyPDF
+## Published Work
+
+### CraftMyPDF
 
 - [How to Automate eSignatures Using Zapier with CraftMyPDF](https://craftmypdf.com/blog/how-to-automate-esignatures-using-zapier)
 - [Best esignature api features for developers](https://craftmypdf.com/blog/best-esignature-api-features-for-developers)
@@ -15,18 +30,18 @@ Find me on [LinkedIn](https://www.linkedin.com/in/aditya-trivedi-032090164/).
 - [Automate Job Application Form Using CraftMyPDF & N8n](https://craftmypdf.com/blog/automate-job-application-form-using-craftmypdf-and-n8n)
 - [How to Auto-Generate PDF Certificates from Google Sheets Using Apps Script & CraftMyPDF](https://craftmypdf.com/blog/how-to-auto-generate-pdf-certificates-from-google-sheets-using-apps-script-craftmypdf)
 
-## APITemplate
+### APITemplate
 
 - [How to Create a PDF from HTML in Zapier Using APITemplate](https://apitemplate.io/blog/how-to-create-a-pdf-from-html-in-zapier)
 - [How to Generate PDF Documents with n8n and APITemplate](https://apitemplate.io/blog/how-to-generate-pdf-documents-with-n8n-and-apitemplate-io)
 - [PDF generation API: Automate Google Sheets to PDF Reports](https://apitemplate.io/blog/automate-pdf-reports-using-make-and-apitemplate/)
 - [How To Generate PDFs Serverlessly With AWS Lambda and Headless Chromium](https://apitemplate.io/blog/html-to-pdf-aws-lambda-serverless-guide/)
 
-## Medium
+### Medium
 
 - [Step-by-Step: Uploading Files to AWS S3 Using AWS API Gateway & Lambda](https://medium.com/@adityatrivedi08082001/step-by-step-uploading-files-to-aws-s3-using-aws-api-gateway-lambda-d1003320c7a3)
 
-## GeeksforGeeks
+### GeeksforGeeks
 
 - [How To Track ISS (International Space Station) Using Python?](https://www.geeksforgeeks.org/how-to-track-iss-international-space-station-using-python/)
 - [What is Ping?](https://www.geeksforgeeks.org/what-is-ping/)
@@ -37,7 +52,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/aditya-trivedi-032090164/).
 - [Daily Latest News webapp Using PyWebio in Python](https://www.geeksforgeeks.org/daily-latest-news-webapp-using-pywebio-in-python/)
 - [How to Reduce Latency?](https://www.geeksforgeeks.org/how-to-reduce-latency/)
 
-## Scaler Topics
+### Scaler Topics
 
 - [Space Complexity in Data Structure](https://www.scaler.com/topics/space-complexity-in-data-structure/)
 - [How to Reverse a List in Python?](https://www.scaler.com/topics/how-to-reverse-a-list-in-python/)
