@@ -1,19 +1,19 @@
 # Aditya Trivedi - Technical Writing Portfolio
 
-I am a Generative AI engineer with 3+ years of experience and a technical writer who turns complex engineering concepts into clear, practical content. Drawing on hands-on experience building production-grade AI systems, I can create technically accurate tutorials, implementation guides, product comparisons, and in-depth explainers for both developer and business audiences.
+I am a Generative AI engineer and technical writer with 3+ years of experience. I enjoy writing about complex technical topics in a simple and practical way. Since I have worked on production-level AI projects, I can write tutorials, how-to guides, product comparisons, and technical articles for both developers and general readers.
 
-**Core writing domains:** Generative AI · Agentic AI · RAG · Multi-agent systems · Prompt engineering · Machine learning · APIs · Cloud computing · Python · Data structures and algorithms
+**Topics I write about:** Generative AI · Agentic AI · RAG · Multi-agent systems · Prompt engineering · Machine learning · APIs · Cloud computing · Python · Data structures and algorithms
 
 ## AI and Generative AI Expertise
 
-I can write authoritative, implementation-focused content across:
+I can write technical content on the following topics:
 
-- **LLMs and Generative AI:** Gemini, GPT, prompt engineering, function calling, structured outputs, and LLM evaluation
-- **Agentic systems:** AI agents, multi-agent architectures, tool use, conversation state, and Model Context Protocol (MCP)
-- **RAG and document intelligence:** LangChain, embeddings, semantic search, ChromaDB, FAISS, source attribution, and retrieval optimization
-- **Machine learning and NLP:** TensorFlow, Keras, LSTM models, spaCy, named entity recognition, scikit-learn, and data preprocessing
-- **Multimodal AI:** Text, image, diagram, and infographic generation workflows
-- **AI infrastructure:** Vertex AI, AWS Lambda, S3, scalable data pipelines, REST APIs, and production AI automation
+- **LLMs and Generative AI:** Gemini, GPT, prompt engineering, function calling, structured output, and LLM evaluation
+- **Agentic AI:** AI agents, multi-agent systems, tool calling, conversation management, and Model Context Protocol (MCP)
+- **RAG and document-based AI:** LangChain, embeddings, semantic search, ChromaDB, FAISS, source references, and retrieval improvement
+- **Machine learning and NLP:** TensorFlow, Keras, LSTM, spaCy, named entity recognition, scikit-learn, and data preprocessing
+- **Multimodal AI:** Workflows using text, images, diagrams, and infographics
+- **AI infrastructure:** Vertex AI, AWS Lambda, S3, data pipelines, REST APIs, and AI automation
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/aditya-trivedi-032090164/)
 
